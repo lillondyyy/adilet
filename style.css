@@ -1,0 +1,49 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    height: 120px;
+    background-color: black;
+    align-items: center;
+}
+body{
+    background-color: gray;
+}
+img{
+    width: 150px;
+    height: 120px;
+}
+a{
+    color: white;
+    padding: 10px;
+}
+h1{
+    text-align: center;
+}
+.box3{
+    color: white;
+    display: flex;
+    align-items: center;
+}
+.block1{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.box4{
+    height: 400px;
+    width: 300px;
+    background-color: rgb(18, 109, 245);
+    border-radius: 5%;
+}
+.box5{
+    height: 400px;
+    width: 300px;
+    background-color: rgb(18, 109, 245);
+    border-radius: 5%;
+}
+.box6{
+    height: 400px;
+    width: 300px;
+    background-color: rgb(18, 109, 245);
+    border-radius: 5%;
+}
